@@ -44,8 +44,8 @@ sessions = get_sessions()
 for session in sessions:
     add_session(session)
 
-API_ID = 2096979
-API_HASH = '2bb5d66a4618e7325a91aab04d22c071'
+API_ID = "Your api_id from my.telegram.org"
+API_HASH = 'Your api_hash from my.telegram.org'
 
 clients = {}
 is_running = {}
